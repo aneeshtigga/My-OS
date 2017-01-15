@@ -77,7 +77,7 @@ uint16_t Port16Bit::Read()
 }
 
 //32bit
-Port32Bit::Port32Bit(uint32_t portnumber)
+Port32Bit::Port32Bit(uint16_t portnumber)
 : Port(portnumber)
 {
 

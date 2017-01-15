@@ -45,3 +45,5 @@
 		virtual void Write(uint32_t data);
 		virtual uint32_t Read();
 	};
+
+#endif

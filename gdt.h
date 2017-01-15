@@ -1,4 +1,3 @@
-
 #ifndef __GDT_H
 #define __GDT_H
 
@@ -37,3 +36,5 @@
 		uint16_t DataSegmentSelector();
 
 	};
+
+#endif
